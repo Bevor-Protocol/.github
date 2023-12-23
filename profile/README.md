@@ -4,7 +4,7 @@ Hi all 🫡
 
 Welcome to the **Bevor** github organization.
 
-We're a web3 company focused on decentralizing audit facilitating mechanisms.
+We're a web3 protocol focused on decentralizing audit facilitating mechanisms.
 
 [Bevor](https://bevor.io)
 
